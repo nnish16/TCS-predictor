@@ -106,6 +106,10 @@ textarea{
     background-color: #27ae77;
 }
 
+.field:focus{
+    border: 2px solid rgba(30,85,250,0.47);
+    background-color: #fff;
+}
 
 @media screen and (max-width: 880px){
 	.contact-box{
